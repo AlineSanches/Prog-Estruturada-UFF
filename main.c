@@ -1,5 +1,5 @@
 #include "stdio.h"
-int mainN(void) {
+int helloWorld(void) {
   printf("Hello World\n");
   return 0;
 }
