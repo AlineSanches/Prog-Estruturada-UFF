@@ -3,7 +3,7 @@
 
 #include "stdio.h"
 
-int l0ex5(void){
+int l0ex05(void){
   int horas, minutos, minsConvertido, segsConvertido;
 
   printf("Digite ói a(s) hora(s):");

@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int l0ex1(void){
+int l0ex01(void){
   float base, altura, perimetro, area, diagonal;
   printf("Digite a base do retângulo: ");
   scanf("%f", &base);

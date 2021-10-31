@@ -5,7 +5,7 @@
 
 #include <stdio.h>
 
-int l0ex6(void){
+int l0ex06(void){
   float sal, conta1, conta2, salFinal;
   printf("Digite seu salário: ");
   scanf("%f", &sal);

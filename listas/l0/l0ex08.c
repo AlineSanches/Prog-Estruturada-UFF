@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int l0ex8(void) {
+int l0ex08(void) {
   float a, pesoa, b, pesob, c, pesoc, media;
   printf("Digite a primeira nota e seu peso: ");
   scanf("%f %f", &a, &pesoa);

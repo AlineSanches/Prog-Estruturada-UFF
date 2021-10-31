@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int l0ex7(void) {
+int l0ex07(void) {
   float a, b, c, media;
   printf("Digite a primeira nota: ");
   scanf("%f", &a);

@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int l0ex2(void){
+int l0ex02(void){
   char nome[20];
   float consumo, valKwh, contaLuz;
 

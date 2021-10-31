@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-int l0ex3(void){
+int l0ex03(void){
   float salMin, consumo, valKwh, contaLuz;
 
   printf("Digite o valor do salário mínimo: ");
