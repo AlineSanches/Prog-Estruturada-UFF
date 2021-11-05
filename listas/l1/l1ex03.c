@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-int main(void){
+int l1ex03(void){
   int idade;
   printf("Insira a idade do nadador: ");
   scanf("%d", &idade);
