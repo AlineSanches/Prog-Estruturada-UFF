@@ -13,7 +13,7 @@
 
 int l1ex04(void){
   float preco;
-  char categoria[30];
+  
   printf("Insira o preço\n");
   scanf("%f", &preco);
   if (preco <= 50)

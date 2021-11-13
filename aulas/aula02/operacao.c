@@ -1,7 +1,7 @@
 #include <stdio.h>
 //* Faça um programa que leia 2 valores inteiros A e B e escreva o resultado da operação (+, -, * ou /) escolhida pelo usuário. *//
 
-int operacao(void) {
+int operacao1(void) {
   float a, b;
   char operacao;
   printf("Digite 2 valores inteiros:\n");
@@ -22,7 +22,7 @@ int operacao(void) {
       printf("\nMULTIPLICAÇÃO: %.2f\n", a*b);
       break;
     case '/':
-      printf("\nMULTIPLICAÇÃO: %.2f\n", a/b);
+      printf("\nDIVISÃO: %.2f\n", a/b);
       break;
     default:
       printf("\nOperação não existe\n");
