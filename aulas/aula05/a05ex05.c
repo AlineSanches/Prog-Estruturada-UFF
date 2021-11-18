@@ -9,7 +9,7 @@ int fibRecursiva(int n){
   return (fibRecursiva(n-1)+fibRecursiva(n-2));
 }
 
-int main(void){
+int a05ex05(void){
   int N;
   printf("Digite o N: ");
   scanf("%d", &N);
