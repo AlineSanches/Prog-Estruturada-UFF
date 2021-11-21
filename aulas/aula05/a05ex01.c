@@ -1,4 +1,4 @@
-//* Faça uma função que calcule Xn, sendo N ≥ 0. *//
+/* Faça uma função que calcule Xn, sendo N ≥ 0. */
 
 #include <stdio.h>
 

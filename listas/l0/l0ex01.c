@@ -1,4 +1,4 @@
-//* Faça um programa que leia a base e a altura de um retângulo e escreva o seu perímetro, a sua área e a sua diagonal. *//
+/* Faça um programa que leia a base e a altura de um retângulo e escreva o seu perímetro, a sua área e a sua diagonal. */
 
 #include <stdio.h>
 #include <math.h>

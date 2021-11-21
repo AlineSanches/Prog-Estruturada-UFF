@@ -1,5 +1,5 @@
-//* Faça uma função que some os números inteiros positivos compreendidos entre A e B.
-// Considere que A < B e que A e B devem entrar na soma. *//
+/* Faça uma função que some os números inteiros positivos compreendidos entre A e B.
+Considere que A < B e que A e B devem entrar na soma. */
 
 #include <stdio.h>
 

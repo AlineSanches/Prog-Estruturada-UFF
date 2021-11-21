@@ -1,4 +1,4 @@
-//* Faça um programa que leia três notas de um aluno com os seus respectivos pesos e que calcule e escreva a média ponderada dessas notas. *//
+/* Faça um programa que leia três notas de um aluno com os seus respectivos pesos e que calcule e escreva a média ponderada dessas notas. */
 
 #include <stdio.h>
 

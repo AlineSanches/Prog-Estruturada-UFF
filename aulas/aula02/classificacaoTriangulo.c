@@ -1,5 +1,5 @@
 #include <stdio.h>
-//* Faça um programa que leia 3 valores reais e que verifique se eles formam um triângulo. Em caso positivo, indique se o triângulo é equilátero, isósceles ou escaleno. *//
+/* Faça um programa que leia 3 valores reais e que verifique se eles formam um triângulo. Em caso positivo, indique se o triângulo é equilátero, isósceles ou escaleno. */
 
 int classTriangulo(void) {
   int a, b, c;

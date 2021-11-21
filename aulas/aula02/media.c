@@ -1,5 +1,5 @@
 #include <stdio.h>
-//* Programa que lê 3 notas e escreve a média aritmética *//
+/* Programa que lê 3 notas e escreve a média aritmética */
 
 int media(void) {
   float a, b, c, media;

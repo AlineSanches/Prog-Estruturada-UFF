@@ -1,5 +1,5 @@
 #include <stdio.h>
-//* Faça um programa que leia 2 valores inteiros A e B e escreva o resultado da operação (+, -, * ou /) escolhida pelo usuário. *//
+/* Faça um programa que leia 2 valores inteiros A e B e escreva o resultado da operação (+, -, * ou /) escolhida pelo usuário. */
 
 int operacao1(void) {
   float a, b;

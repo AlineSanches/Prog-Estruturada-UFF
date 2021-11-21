@@ -1,5 +1,5 @@
-//* Faça um programa que calcule o valor de E.
-// E = 1 + 1/(1!) + 1/(2!) + 1/(3!) + ... + 1/(N!) *//
+/* Faça um programa que calcule o valor de E.
+E = 1 + 1/(1!) + 1/(2!) + 1/(3!) + ... + 1/(N!) */
 
 #include <stdio.h>
 

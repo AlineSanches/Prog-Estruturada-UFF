@@ -1,5 +1,5 @@
-//* Ler N notas dos alunos de uma turma e calcular a média. Ao final imprimir a 
-// quantidade de alunos que ficou acima da média calculada. *//
+/* Ler N notas dos alunos de uma turma e calcular a média. Ao final imprimir a 
+quantidade de alunos que ficou acima da média calculada. */
 
 #include <stdio.h>
 

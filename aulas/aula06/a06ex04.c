@@ -1,6 +1,6 @@
-//* Faça um programa que preencha uma matriz 3x4 com números inteiros.
-// a. Faça uma função para preencher a matriz;
-// b. Faça uma função que escreva a matriz formatada; *//
+/* Faça um programa que preencha uma matriz 3x4 com números inteiros.
+a. Faça uma função para preencher a matriz;
+b. Faça uma função que escreva a matriz formatada; */
 
 #include <stdio.h>
 

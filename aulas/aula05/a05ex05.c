@@ -1,4 +1,4 @@
-//* Faça uma função que retorne o enésimo termo de uma série de Fibonacci. *//
+/* Faça uma função que retorne o enésimo termo de uma série de Fibonacci. */
 
 #include <stdio.h>
 int fibRecursiva(int n){

@@ -1,5 +1,5 @@
-//* Preencher 2 vetores de X posições cada, com números inteiros. Fazer uma função que receba os dois vetores
-// como parâmetros e que retorne a quantidade de posições que possuem números distintos. *//
+/* Preencher 2 vetores de X posições cada, com números inteiros. Fazer uma função que receba os dois vetores
+como parâmetros e que retorne a quantidade de posições que possuem números distintos. */
 
 #include <stdio.h>
 

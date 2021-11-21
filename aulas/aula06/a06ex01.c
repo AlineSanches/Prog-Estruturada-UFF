@@ -1,4 +1,4 @@
-//* Ler 20 números inteiros e depois imprimí-los na ordem contrária em que foram lidos. *//
+/* Ler 20 números inteiros e depois imprimí-los na ordem contrária em que foram lidos. */
 
 #include <stdio.h>
 

@@ -1,5 +1,5 @@
 #include <stdio.h>
-//* Faça um programa que leia 3 notas e escreva a média aritmética *//
+/* Faça um programa que leia 3 notas e escreva a média aritmética */
 
 int areaTriangulo(void) {
   float base, altura, area;

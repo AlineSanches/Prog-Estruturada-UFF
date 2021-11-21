@@ -1,4 +1,5 @@
-//* Sabendo que o quilowatt de energia custa um décimo do salário mínimo, faça um programa que leia o valor do salário mínimo e a quantidade de quilowatts gasta por um usuário e calcule e escreva: o valor de um quilowatt e o valor da conta de energia do usuário. *//
+/* Sabendo que o quilowatt de energia custa um décimo do salário mínimo, faça um programa que leia o valor do salário mínimo e a 
+quantidade de quilowatts gasta por um usuário e calcule e escreva: o valor de um quilowatt e o valor da conta de energia do usuário. */
 
 #include <stdio.h>
 

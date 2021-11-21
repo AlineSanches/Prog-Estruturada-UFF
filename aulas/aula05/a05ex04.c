@@ -1,4 +1,4 @@
-//* Faça uma função que escreva os números pares menores ou iguais a N *//
+/* Faça uma função que escreva os números pares menores ou iguais a N */
 
 #include <stdio.h>
 

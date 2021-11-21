@@ -1,4 +1,4 @@
-//* Faça uma função que calcule o quociente da divisão de A por B, utilizando subtrações sucessivas. *//
+/* Faça uma função que calcule o quociente da divisão de A por B, utilizando subtrações sucessivas. */
 
 #include <stdio.h>
 

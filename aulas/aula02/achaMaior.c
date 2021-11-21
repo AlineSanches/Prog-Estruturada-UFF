@@ -1,5 +1,5 @@
 #include <stdio.h>
-//* Faça um programa que leia 3 valores inteiros (diferentes) e escreva qual o maior *//
+/* Faça um programa que leia 3 valores inteiros (diferentes) e escreva qual o maior */
 
 int achaMaior(void) {
   int a, b, c, maior;

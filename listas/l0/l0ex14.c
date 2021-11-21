@@ -1,4 +1,4 @@
-//* Fazer um programa que leia dois números inteiros A e B, e que troque seus valores. Escrever os valores antes e depois da troca. *//
+/* Fazer um programa que leia dois números inteiros A e B, e que troque seus valores. Escrever os valores antes e depois da troca. */
 
 #include <stdio.h>
 

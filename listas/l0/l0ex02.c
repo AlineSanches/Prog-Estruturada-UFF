@@ -1,4 +1,4 @@
-//* Faça um programa que escreva quanto um consumidor deverá pagar na sua conta de luz. Os dados de entrada do algoritmo devem ser: o nome do consumidor, o seu consumo mensal em quilowatts, e o preço equivalente a um quilowatt. *//
+/* Faça um programa que escreva quanto um consumidor deverá pagar na sua conta de luz. Os dados de entrada do algoritmo devem ser: o nome do consumidor, o seu consumo mensal em quilowatts, e o preço equivalente a um quilowatt. */
 
 #include <stdio.h>
 

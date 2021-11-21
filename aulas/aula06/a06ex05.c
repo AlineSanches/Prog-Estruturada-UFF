@@ -1,7 +1,7 @@
-//* Faça um programa que preencha uma matriz NxN e que escreva a soma dos elementos da diagonal principal.
-// a. Faça uma função para preencher a matriz;
-// b. Faça uma função que escreva a matriz formatada;
-//c. Faça uma função que retorne a soma dos elementos da diagonal principal. *//
+/* Faça um programa que preencha uma matriz NxN e que escreva a soma dos elementos da diagonal principal.
+a. Faça uma função para preencher a matriz;
+b. Faça uma função que escreva a matriz formatada;
+c. Faça uma função que retorne a soma dos elementos da diagonal principal. */
 
 #include <stdio.h>
 

@@ -1,4 +1,4 @@
-//* Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual. Calcular e escrever a idade dessa pessoa em anos, meses e semanas. *//
+/* Faça um programa que receba o ano de nascimento de uma pessoa e o ano atual. Calcular e escrever a idade dessa pessoa em anos, meses e semanas. */
 
 #include "stdio.h"
 

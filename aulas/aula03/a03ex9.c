@@ -1,5 +1,5 @@
-//* Fazer um programa que leia N números naturais e que escreva o
-// somatório dos números pares e a média dos múltiplos de 3. *//
+/* Fazer um programa que leia N números naturais e que escreva o
+somatório dos números pares e a média dos múltiplos de 3. */
 
 #include <stdio.h>
 

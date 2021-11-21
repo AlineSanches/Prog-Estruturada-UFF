@@ -1,4 +1,4 @@
-//* Faça um programa que leia três notas e que calcule e escreva a média aritmética dessas notas. *//
+/* Faça um programa que leia três notas e que calcule e escreva a média aritmética dessas notas. */
 
 #include <stdio.h>
 

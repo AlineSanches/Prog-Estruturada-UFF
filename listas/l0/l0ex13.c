@@ -1,4 +1,5 @@
-//* Faça um programa que leia dois números inteiros e que calcule e mostre a soma e a multiplicação dos dois números e a divisão e a subtração do primeiro pelo segundo. *//
+/* Faça um programa que leia dois números inteiros e que calcule e mostre a soma e a multiplicação dos 
+dois números e a divisão e a subtração do primeiro pelo segundo. */
 
 #include <stdio.h>
 
