@@ -35,7 +35,7 @@ int ehBissexto(a){
     return 0;
 }
 
-int main(void){
+int a06ex08(void){
   char data[11];
   int ano;
 
