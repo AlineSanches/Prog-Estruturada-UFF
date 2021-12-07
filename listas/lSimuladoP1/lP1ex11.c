@@ -58,7 +58,7 @@ void mostraVetor(float *vet){
   printf("\n");
 }
 
-int main(void){
+int lP1ex11(void){
   int operacao=0;
   float vetX[N], vetY[N], elemento;
   printf("\nPreenchendo o vetor X:\n");
