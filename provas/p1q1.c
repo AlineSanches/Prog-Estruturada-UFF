@@ -61,7 +61,7 @@ void multiplicaMat(int matA[N][N], int matB[N][N], int matResultado[N][N]){
   }
 }
 
-int p1q1(void){
+int aa(void){
   int matrizA[N][N], matrizB[N][N], operacao=0, matrizResultado[N][N];
 
   printf("Preenchendo a primeira matriz:\n");

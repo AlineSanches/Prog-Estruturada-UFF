@@ -92,7 +92,7 @@ int jubila(tAluno *vet, int qtd){
   return qtdJubilados;
 }
 
-int p1q2(void){
+int main(void){
   int qtd, alunosJubilados;
   
   do{
