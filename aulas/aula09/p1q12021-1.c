@@ -52,7 +52,7 @@ void imprimeParesMenoresQueMaior(n){
   }
 }
 
-int main(){
+int p1q120211(){
   int i, j, matriz[N][N], prodDiagSecundaria, somaElemsAcimaDiagPrincipal, qtdNumerosPrimos, maior=0;
 
   for (i=0; i<N; i++){
